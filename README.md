@@ -1,4 +1,4 @@
-# SiamGAT
+# SiamMSS
 
 ## 1. Environment setup
 This code has been tested on windows 10, Python 3.7.9, Pytorch 1.7.0, CUDA 10.0.
